@@ -1,0 +1,10 @@
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\obj\Debug\Creator.csprojResolveAssemblyReference.cache
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Creator.exe.config
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Creator.exe
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Creator.pdb
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Attributes.dll
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Validators.dll
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Attributes.pdb
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Validators.pdb
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\obj\Debug\Creator.exe
+E:\Trainings EPAM\.NETCore-training.Attributes\Creator\obj\Debug\Creator.pdb

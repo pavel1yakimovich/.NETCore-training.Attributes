@@ -13,7 +13,7 @@ namespace Attributes
         public MatchParameterWithPropertyAttribute(string param, string prop)
         {
             this.ParameterName = param;
-            this.ParameterName = prop;
+            this.PropertyName = prop;
         }
     }
 }

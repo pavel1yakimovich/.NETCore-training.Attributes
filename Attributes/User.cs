@@ -34,5 +34,10 @@ namespace Attributes
         {
             _id = id;
         }
+
+        public override string ToString()
+        {
+            return this.Id + " " + this.FirstName + " " + this.LastName;
+        }
     }
 }
