@@ -7,6 +7,7 @@ namespace Attributes
     public class IntValidatorAttribute : Attribute
     {
         public int Min { get; set; }
+
         public int Max { get; set; }
         
         public IntValidatorAttribute(int min, int max)

@@ -3,3 +3,10 @@ E:\Trainings EPAM\.NETCore-training.Attributes\Validators\bin\Debug\Validators.p
 E:\Trainings EPAM\.NETCore-training.Attributes\Validators\obj\Debug\Validators.csprojResolveAssemblyReference.cache
 E:\Trainings EPAM\.NETCore-training.Attributes\Validators\obj\Debug\Validators.dll
 E:\Trainings EPAM\.NETCore-training.Attributes\Validators\obj\Debug\Validators.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\bin\Debug\Validators.dll
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\bin\Debug\Validators.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\obj\Debug\Validators.csprojResolveAssemblyReference.cache
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\obj\Debug\Validators.dll
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\obj\Debug\Validators.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\bin\Debug\Attributes.dll
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Validators\bin\Debug\Attributes.pdb

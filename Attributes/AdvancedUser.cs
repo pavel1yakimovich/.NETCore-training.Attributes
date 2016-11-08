@@ -21,5 +21,10 @@ namespace Attributes
         {
             _externalId = externalId;
         }
+
+        public override string ToString()
+        {
+            return this.Id + " " + this.FirstName + " " + this.LastName + " " + this.ExternalId;
+        }
     }
 }

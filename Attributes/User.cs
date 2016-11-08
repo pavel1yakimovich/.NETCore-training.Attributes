@@ -5,6 +5,8 @@ namespace Attributes
     [InstantiateUser("Alexander", "Alexandrov")]
     [InstantiateUser(2, "Semen", "Semenov")]
     [InstantiateUser(3, "Petr", "Petrov")]
+    [InstantiateUser(1001, "Petr", "Petrov")]
+    [InstantiateUser(5, "Petr", "PetrovPetrovPetrovPetrovPetrovPetrovPetrovPetrovPetrovPetrovPetrovPetrov")]
     public class User
     {
         [IntValidator(1, 1000)]

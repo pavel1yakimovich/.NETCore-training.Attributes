@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using static Validators.Validator;
 
 namespace Creator
 {
@@ -13,6 +10,15 @@ namespace Creator
             foreach (var item in Creator.CreateUsers())
             {
                 Console.WriteLine(item.ToString());
+                Console.WriteLine("Int: " + (IntValidator(item) ? "Valid" : "Invalid"));
+                Console.WriteLine("String: "+ (StringValidator(item) ? "Valid" : "Invalid"));
+            }
+
+            foreach (var item in Creator.CreateAdvancedUsers())
+            {
+                Console.WriteLine(item.ToString());
+                Console.WriteLine("Int: " + (IntValidator(item) ? "Valid" : "Invalid"));
+                Console.WriteLine("String: " + (StringValidator(item) ? "Valid" : "Invalid"));
             }
             Console.ReadKey();
         }

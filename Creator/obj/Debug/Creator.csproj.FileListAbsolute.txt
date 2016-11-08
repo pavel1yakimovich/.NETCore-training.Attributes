@@ -8,3 +8,13 @@ E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Attributes.pdb
 E:\Trainings EPAM\.NETCore-training.Attributes\Creator\bin\Debug\Validators.pdb
 E:\Trainings EPAM\.NETCore-training.Attributes\Creator\obj\Debug\Creator.exe
 E:\Trainings EPAM\.NETCore-training.Attributes\Creator\obj\Debug\Creator.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Creator.exe.config
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Creator.exe
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Creator.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Attributes.dll
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Validators.dll
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Attributes.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\bin\Debug\Validators.pdb
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\obj\Debug\Creator.csprojResolveAssemblyReference.cache
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\obj\Debug\Creator.exe
+C:\Users\Pavel_Yakimovich\Documents\Visual Studio 2015\Projects\Day3\Creator\obj\Debug\Creator.pdb

@@ -8,6 +8,7 @@ namespace Attributes
     public class MatchParameterWithPropertyAttribute : Attribute
     {
         public string ParameterName { get; set; }
+
         public string PropertyName { get; set; }
 
         public MatchParameterWithPropertyAttribute(string param, string prop)
