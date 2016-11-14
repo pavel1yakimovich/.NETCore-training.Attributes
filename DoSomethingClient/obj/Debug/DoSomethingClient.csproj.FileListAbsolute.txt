@@ -1,0 +1,8 @@
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\bin\Debug\DoSomethingClient.exe.config
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\bin\Debug\DoSomethingClient.exe
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\bin\Debug\DoSomethingClient.pdb
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\bin\Debug\MyInterfaces.dll
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\bin\Debug\MyInterfaces.pdb
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\obj\Debug\DoSomethingClient.csprojResolveAssemblyReference.cache
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\obj\Debug\DoSomethingClient.exe
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\DoSomethingClient\obj\Debug\DoSomethingClient.pdb

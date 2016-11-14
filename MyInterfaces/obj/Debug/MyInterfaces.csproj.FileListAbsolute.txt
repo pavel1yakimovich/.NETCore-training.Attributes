@@ -1,0 +1,4 @@
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyInterfaces\bin\Debug\MyInterfaces.dll
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyInterfaces\bin\Debug\MyInterfaces.pdb
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyInterfaces\obj\Debug\MyInterfaces.dll
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyInterfaces\obj\Debug\MyInterfaces.pdb

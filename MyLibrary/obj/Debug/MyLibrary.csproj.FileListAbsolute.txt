@@ -1,0 +1,7 @@
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\bin\Debug\MyInterfaces.dll
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\bin\Debug\MyInterfaces.pdb
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Pavel_Yakimovich\Desktop\.NETCore-training.Attributes-master\MyLibrary\obj\Debug\MyLibrary.pdb
