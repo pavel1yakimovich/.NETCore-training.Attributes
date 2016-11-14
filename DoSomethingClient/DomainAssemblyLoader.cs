@@ -60,6 +60,7 @@ namespace DoSomethingClient
             var instance = Activator.CreateInstance(typeIDoSmth);
 
             IDoSomething doSomethingService = instance as IDoSomething; // TODO Save instance to variable.
+
             return doSomethingService.DoSomething(data);
         }
     }

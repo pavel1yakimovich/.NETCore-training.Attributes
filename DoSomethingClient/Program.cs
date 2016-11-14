@@ -76,7 +76,7 @@ namespace DoSomethingClient
             // TODO: Create a domain with name MyDomain and setup from appDomainSetup.
             AppDomain domain = AppDomain.CreateDomain("MyDomain", null, appDomainSetup);
             var loader = (DomainAssemblyLoader)domain.CreateInstanceAndUnwrap(Assembly.GetExecutingAssembly().FullName, typeof(DomainAssemblyLoader).FullName);
-            
+
             try
             {
                 var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"MyDomain\MyLibrary.dll");
